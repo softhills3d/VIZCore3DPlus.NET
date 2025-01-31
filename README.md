@@ -1,1 +1,1 @@
-# VIZCoreXD.NET
+# VIZCore3D+.NET
